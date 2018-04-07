@@ -5,8 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".controller.OpenJobsActivity"
-    tools:showIn="@layout/app_bar_open_jobs">
+    tools:context=".controller.MainActivity"
+    tools:showIn="@layout/app_bar_main">
 
     <TextView
         android:layout_width="wrap_content"
